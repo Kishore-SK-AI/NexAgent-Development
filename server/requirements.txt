@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic
+requests
+python-dotenv
+pyjwt
+cryptography
+authlib
+itsdangerous
+chromadb
+groq
+sentence-transformers
+pymongo
+dnspython
+email-validator
